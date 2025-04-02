@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://jsonnet-libs.github.io/upbound-provider-opentofu-libsonnet/</loc>
+         <lastmod>2025-04-02</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/upbound-provider-opentofu-libsonnet/provider-opentofu/0.2/</loc>
+         <lastmod>2025-04-02</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/upbound-provider-opentofu-libsonnet/provider-opentofu/0.2/opentofu/</loc>
+         <lastmod>2025-04-02</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/upbound-provider-opentofu-libsonnet/provider-opentofu/0.2/opentofu/v1beta1/</loc>
+         <lastmod>2025-04-02</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/upbound-provider-opentofu-libsonnet/provider-opentofu/0.2/opentofu/v1beta1/providerConfig/</loc>
+         <lastmod>2025-04-02</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/upbound-provider-opentofu-libsonnet/provider-opentofu/0.2/opentofu/v1beta1/providerConfigUsage/</loc>
+         <lastmod>2025-04-02</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/upbound-provider-opentofu-libsonnet/provider-opentofu/0.2/opentofu/v1beta1/storeConfig/</loc>
+         <lastmod>2025-04-02</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/upbound-provider-opentofu-libsonnet/provider-opentofu/0.2/opentofu/v1beta1/workspace/</loc>
+         <lastmod>2025-04-02</lastmod>
+    </url>
+</urlset>
